@@ -18,3 +18,4 @@ description = "Open-source AI coding agent for your terminal — one Rust binary
 # guard against empty input
 # clarify the control flow
 # match the style used in the rest of the module
+# match the style used in the rest of the module
